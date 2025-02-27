@@ -1,6 +1,0 @@
-github.com/cepot-blip/opencv-go-project v0.0.0-20240319093054-f8c1eeca1293 h1:oFuDrUxVsxmZtfV9w7h4Ohi/kBwpFJ6f43axFjTxbFI=
-github.com/cepot-blip/opencv-go-project v0.0.0-20240319093054-f8c1eeca1293/go.mod h1:IW7xPb5hQcoaDU/fYq80D6bFxTCYI8HoIkhTy9H/mQQ=
-github.com/gorilla/mux v1.8.1 h1:TuBL49tXwgrFYWhqrNgrUNEY92u81SPhu7sTdzQEiWY=
-github.com/gorilla/mux v1.8.1/go.mod h1:AKf9I4AEqPTmMytcMc0KkNouC66V3BtZ4qD5fmWSiMQ=
-gocv.io/x/gocv v0.40.0 h1:kGBu/UVj+dO6A9dhQmGOnCICSL7ke7b5YtX3R3azdXI=
-gocv.io/x/gocv v0.40.0/go.mod h1:zYdWMj29WAEznM3Y8NsU3A0TRq/wR/cy75jeUypThqU=
